@@ -1,0 +1,6 @@
+firebase
+Project Console: https://console.firebase.google.com/project/subs3-c40db/overview
+Hosting URL: https://subs3-c40db.web.app
+
+
+https://github.com/hermawansusilo/hermawan.github.io
